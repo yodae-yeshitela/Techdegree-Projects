@@ -1,0 +1,48 @@
+extends layout.pug
+
+block content
+  - var name = 'yodae'
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        h1.text-light Yodae Yeshitela
+
+        p.lead.text-light
+          | Full Stack JavaScript Developer.
+
+        .portfolio-bio
+          p.text-light
+            |Eventhough I am a relatively new developer my skill set will amaze you and I am very confident that I
+            |will be a great fit for a position at your company
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6.text-light Skills
+
+        
+        ul.text-light
+          li HTML
+          li Javascript
+          li CSS
+          li Jquery
+          li Node
+          li NPM
+          li Express 
+          li Object Oriented Programming
+          li Pug templating
+          li Terminal CLI
+          li GIT
+        h6.text-light Contact Info
+
+        
+        ul.text-light
+          li 555-555-1234
+          li yyodahe16@gmail.com
+
+        a.button.expanded(disabled) LinkedIn
+        a.button.expanded(href='https://github.com/yodae-yeshitela') GitHub
+        a.button.expanded(disabled) Twitter
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  

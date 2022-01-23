@@ -1,0 +1,82 @@
+{
+    "projects": [
+        {
+            "id":"0",
+            "project_name":"Random Quote Generator",
+            "description":"Display a collection of quotes with changing backgrounds",
+            "technologies":["javascript", "html", "css"],
+            "live_link":"https://yodae-yeshitela.github.io/techdegree-project-1/",
+            "github_link":"https://github.com/yodae-yeshitela/techdegree-project-1",
+            "image_urls":
+                [
+                    "project 1-1.jpeg",
+                    "project 1-2.jpeg"
+                ]
+            
+        },
+        {
+            "id":"1",
+            "project_name":"List pagination",
+            "description":"A static web page that list user-profiles with pagination and a search feature",
+            "technologies":["javascript", "html", "css", "jquery"],
+            "live_link":"https://yodae-yeshitela.github.io/techdegree-project-2/",
+            "github_link":"https://github.com/yodae-yeshitela/techdegree-project-2",
+            "image_urls":
+                [
+                    "project 2-1.jpeg",
+                    "project 2-2.jpeg",
+                    "project 2-3.jpeg"
+                ]
+        },
+        {
+            "id":"2",
+            "project_name":"Fullstack Conference Registration Form",
+            "description":"A form that implements custom validation input and dynamic fields",
+            "technologies":["javascript", "html", "css","jquery"],
+            "live_link":"https://yodae-yeshitela.github.io/techdegree-project-3/",
+            "github_link":"https://github.com/yodae-yeshitela/techdegree-project-3",
+            "image_urls":
+                [
+                    "project 3-1.jpeg",
+                    "project 3-2.jpeg",
+                    "project 3-3.jpeg",
+                    "project 3-4.jpeg",
+                    "project 3-5.jpeg"
+                ]
+            
+        },
+        {
+            "id":"3",
+            "project_name":"OOP Game Show App",
+            "description":"A browser based word guessing game",
+            "technologies":["javascript", "html", "css","jquery"],
+            "live_link":"https://yodae-yeshitela.github.io/techdegree-project-4/",
+            "github_link":"https://github.com/yodae-yeshitela/techdegree-project-4",
+            "image_urls":
+                [
+                    "project 4-1.jpeg",
+                    "project 4-2.jpeg",
+                    "project 4-3.jpeg",
+                    "project 4-4.jpeg",
+                    "project 4-5.jpeg"
+                ]
+            
+        },
+        {
+            "id":"4",
+            "project_name":"Public API Requests",
+            "description":"An employee directory which utilizes Random User API for data",
+            "technologies":["javascript", "html", "css","jquery"],
+            "live_link":"https://yodae-yeshitela.github.io/techdegree-project-5/",
+            "github_link":"https://github.com/yodae-yeshitela/techdegree-project-5",
+            "image_urls":
+                [
+                    "project 5-1.jpeg",
+                    "project 5-2.jpeg",
+                    "project 5-3.jpeg"
+                ]
+            
+        }
+
+    ]
+}
